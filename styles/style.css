@@ -25,6 +25,7 @@
 .li-item {
  color: #303134;
  font-size: 15px;
+ font-family: 'Raleway';
  
 }
 .li-item:first-child {
@@ -54,6 +55,7 @@
     height: 60px;
     font-size: 78.74051666259766px;
     color: #fff;
+    font-family: 'arial';
 }
 .travel {
     width: 314px;
@@ -64,6 +66,7 @@
     margin-top: 55px;
     padding-right: 163px;
     padding-left: 111px;
+    font-family: 'Raleway';
 }
 /* coneiner-block */
 .conteiner-div {
@@ -71,6 +74,7 @@
     height: 677px;
     display: flex;
     margin: 79px auto 0;
+    font-family: 'Raleway';
 }
 .main-block-div {
     width: 242px;
