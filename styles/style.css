@@ -14,7 +14,7 @@
 .li-div {
     width: 505px;
     height: 13px;
-    margin: 35px 93px 33px 534px;
+    margin: 35px 93px 33px 531px;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -28,8 +28,9 @@
  font-family: 'Raleway';
 }
 .li-item:first-child {
-    margin-right: 41px;
+   margin-right: 41px;
 }
+
 /* main section */
 .main-section {
     width: 1360px;
