@@ -26,7 +26,6 @@
  color: #303134;
  font-size: 15px;
  font-family: 'Raleway';
- 
 }
 .li-item:first-child {
     margin-right: 41px;
@@ -100,7 +99,6 @@
     font-weight: 500;
     color: #8D8D8D;
     margin-top: 45px;
-   
 }
 /* right-main-div */
 .right-main-div{
@@ -115,14 +113,11 @@
 .box1 {
     width: 270px;
     height: 327px;
-    
-    
 }
 .image1-div {
     position: relative;
     width: 151px;
     height: 14px;
-    
 }
 .div-class-h3 {
     position: absolute;
